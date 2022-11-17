@@ -1,5 +1,7 @@
 package com.example.mynewsapp.data
 
+import com.example.mynewsapp.R
+
 object DataNews {
     //all_news
     private val titleAll = arrayOf(
